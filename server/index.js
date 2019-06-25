@@ -8,7 +8,7 @@
  *
  */
 
-'use strict';
+'use strict'; 	
 
 /**
  * Pre-flight stuff - to be done before the application class starts the server

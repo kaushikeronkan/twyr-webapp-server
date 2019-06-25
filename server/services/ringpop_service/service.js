@@ -11,8 +11,8 @@
  * Module dependencies, required for this module
  * @ignore
  */
-const TwyrBaseService = require('twyr-base-service').TwyrBaseService;
-const TwyrSrvcError = require('twyr-service-error').TwyrServiceError;
+const TwyrBaseService = require('/home/kaushik/source/twyr-webapp-server/framework/twyr-base-service').TwyrBaseService;
+const TwyrSrvcError = require('/home/kaushik/source/twyr-webapp-server/framework/twyr-service-error').TwyrServiceError;
 
 /**
  * @class   RingpopService
